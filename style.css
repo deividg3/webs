@@ -18,7 +18,7 @@
         flex: 1 1 0;
         min-width:200px;
         transition: .3s;
-        margin: 20px;
+        margin: 5px;
     }
  
 
@@ -43,4 +43,8 @@
     }
     label{
         margin: 10px auto;
+    }
+    p{
+        font-style: italic;
+        text-transform: uppercase;
     }
